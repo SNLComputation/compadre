@@ -1,0 +1,25 @@
+\_form#0=276x15:$(x-x_t)^2*(y-y_t)*(z-z_t)^3/factorial(2+1+3)$
+\_form#1=53x14:$(x_t,y_t,z_t)$
+\_form#2=58x14:$ N(i,j+1) $
+\_form#3=16x14:$ j^{th} $
+\_form#4=5x9:$ i $
+\_form#5=36x14:$ N(i,0) $
+\_form#6=39x13:$NB_d=$
+\_form#7=6x10:$d$
+\_form#8=70x15:$NB_{(d-1)/v}=$
+\_form#9=36x14:$(d-1)$
+\_form#10=26x13:$NB_d$
+\_form#11=89x33:\[\begin{bmatrix}b_i\\ -\int \frac{\partial}{\partial x}(b_i)\; dy\end{bmatrix},\]
+\_form#12=5x9:$i$
+\_form#13=56x15:$NB_{(d-1)/y}$
+\_form#14=26x31:\[\begin{bmatrix}0\\b_j\end{bmatrix},\]
+\_form#15=6x11:$j$
+\_form#16=8x6:$x$
+\_form#17=90x46:\[\begin{bmatrix}b_i\\ 0 \\-\int \frac{\partial}{\partial x}(b_i)\; dz\end{bmatrix},\]
+\_form#18=90x48:\[\begin{bmatrix}0\\ b_i \\-\int \frac{\partial}{\partial y}(b_i)\; dz\end{bmatrix},\]
+\_form#19=56x15:$NB_{(d-1)/z}$
+\_form#20=29x46:\[\begin{bmatrix}0\\0\\b_j\end{bmatrix},\]
+\_form#21=8x9:$y$
+\_form#22=63x38:\[\sum_{n=0}^{n=P} \frac{(x/h)^n}{n!}\]
+\_form#23=145x39:\[\sum_{n=0}^{n=P} \sum_{k=0}^{k=n} \frac{(x/h)^{n-k}*(y/h)^k}{(n-k)!k!}\]
+\_form#24=233x40:\[\sum_{p=0}^{p=P} \sum_{k_1+k_2+k_3=n} \frac{(x/h)^{k_1}*(y/h)^{k_2}*(z/h)^{k_3}}{k_1!k_2!k_3!}\]
